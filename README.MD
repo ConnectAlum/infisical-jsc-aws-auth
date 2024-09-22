@@ -12,8 +12,8 @@ import { AWSAuth } from "@connectalum/infisical-jsc-aws-auth";
 const siteUrl = "https://app.infisical.com"
 const infisical = createInfisicalClient({
     auth: new AWSAuth({
-      identityId: "your-infisical-identity"
-    }, siteUrl),
+            identityId: "your-infisical-identity"
+          }, siteUrl),
     siteUrl,
 })
 ```
