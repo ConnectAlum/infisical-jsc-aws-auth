@@ -1,6 +1,6 @@
 {
   "name": "@connectalum/infisical-jsc-aws-auth",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "A auth module for the Infisical JS Client that allows you to authenticate via AWS STS",
   "type": "module",
   "types": "dist/index.d.ts",
